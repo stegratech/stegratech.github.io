@@ -1,0 +1,73 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "StegraTech",
+    "description": "",
+    "home_page_url": "https://vennbit.com",
+    "feed_url": "https://vennbit.com/feed.json",
+    "user_comment": "",
+    "icon": "https://vennbit.com/media/website/stegratech-75.png",
+    "author": {
+        "name": "VennBit"
+    },
+    "items": [
+        {
+            "id": "https://vennbit.com/ignore-all-this.html",
+            "url": "https://vennbit.com/ignore-all-this.html",
+            "title": "Ignore all this",
+            "summary": "running some tests",
+            "content_html": "\n  <p>\n    running some tests\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "VennBit"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-14T00:04:09-04:00",
+            "date_modified": "2023-08-14T00:04:09-04:00"
+        },
+        {
+            "id": "https://vennbit.com/block-editor-2.html",
+            "url": "https://vennbit.com/block-editor-2.html",
+            "title": "block editor 2",
+            "summary": "huwhefuhwfe wefwefw def a() { whufhwiuefh wefwef wefwefef",
+            "content_html": "\n  <p>\n    huwhefuhwfe\n  </p>\n\n  <p>\n    wefwefw\n  </p>\n<pre class=\"line-numbers  language-python\"><code>def a() {\n    whufhwiuefh\n    wefwef\n\n    \n</code></pre>\n\n  <p>\n    wefwefef\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>",
+            "image": "https://vennbit.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg",
+            "author": {
+                "name": "VennBit"
+            },
+            "tags": [
+                   "tag2",
+                   "tag1"
+            ],
+            "date_published": "2023-08-13T22:16:08-04:00",
+            "date_modified": "2023-08-13T22:45:16-04:00"
+        },
+        {
+            "id": "https://vennbit.com/block-editor-post.html",
+            "url": "https://vennbit.com/block-editor-post.html",
+            "title": "block editor post",
+            "summary": "wefwefwef wefwefwf this is code uhfwuiefhi fwefwefef wefwfe wefwef wefef",
+            "content_html": "\n  <p>\n    wefwefwef\n  </p>\n\n  <p>\n    wefwefwf\n  </p>\n<pre class=\"line-numbers  language-html\"><code>this is code uhfwuiefhi\nfwefwefef\nwefwfe\nwefwef\nwefef\n\n</code></pre>",
+            "author": {
+                "name": "VennBit"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-13T22:00:19-04:00",
+            "date_modified": "2023-08-13T22:00:19-04:00"
+        },
+        {
+            "id": "https://vennbit.com/this-is-a-wysiwyg-post.html",
+            "url": "https://vennbit.com/this-is-a-wysiwyg-post.html",
+            "title": "This is a wysiwyg post",
+            "summary": "message body wefwefwef this should be python code more python code rwfuwhefuhweiufhwiuehfiuwehf wefwef wef",
+            "content_html": "<p>message body</p>\n<p><code class=\"language-python\">wefwefwef<br>this should be python code<br>more python code<br>rwfuwhefuhweiufhwiuehfiuwehf</code></p>\n<p>wefwef</p>\n<p>wef</p>\n<p> </p>",
+            "author": {
+                "name": "VennBit"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-13T21:58:57-04:00",
+            "date_modified": "2023-08-13T21:58:57-04:00"
+        }
+    ]
+}

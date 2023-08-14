@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://vennbit.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://vennbit.com/</loc>
+</url>
+<url>
+<loc>https://vennbit.com/block-editor-2.html</loc>
+<lastmod>2023-08-13T22:45:16-04:00</lastmod>
+<image:image>
+<image:loc>https://vennbit.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://vennbit.com/block-editor-post.html</loc>
+<lastmod>2023-08-13T22:00:19-04:00</lastmod>
+</url>
+<url>
+<loc>https://vennbit.com/ignore-all-this.html</loc>
+<lastmod>2023-08-14T00:04:09-04:00</lastmod>
+</url>
+<url>
+<loc>https://vennbit.com/this-is-a-wysiwyg-post.html</loc>
+<lastmod>2023-08-13T21:58:57-04:00</lastmod>
+</url>
+</urlset>

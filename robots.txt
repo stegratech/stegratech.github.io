@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vennbit.com/sitemap.xml
