@@ -3,21 +3,21 @@
     <title>StegraTech</title>
     <link href="https://stegratech.com/feed.xml" rel="self" />
     <link href="https://stegratech.com" />
-    <updated>2023-08-14T00:04:09-04:00</updated>
+    <updated>2023-08-14T09:24:40-04:00</updated>
     <author>
         <name>VennBit</name>
     </author>
     <id>https://stegratech.com</id>
 
     <entry>
-        <title>Ignore all this</title>
+        <title>Please ignore all this</title>
         <author>
             <name>VennBit</name>
         </author>
         <link href="https://stegratech.com/ignore-all-this.html"/>
         <id>https://stegratech.com/ignore-all-this.html</id>
 
-        <updated>2023-08-14T00:04:09-04:00</updated>
+        <updated>2023-08-14T09:24:40-04:00</updated>
             <summary>
                 <![CDATA[
                     running some tests

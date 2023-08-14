@@ -5,7 +5,7 @@
     "home_page_url": "https://stegratech.com",
     "feed_url": "https://stegratech.com/feed.json",
     "user_comment": "",
-    "icon": "https://stegratech.com/media/website/stegratech-75.png",
+    "icon": "https://stegratech.com/media/website/stegratech-75-2.png",
     "author": {
         "name": "VennBit"
     },
@@ -13,7 +13,7 @@
         {
             "id": "https://stegratech.com/ignore-all-this.html",
             "url": "https://stegratech.com/ignore-all-this.html",
-            "title": "Ignore all this",
+            "title": "Please ignore all this",
             "summary": "running some tests",
             "content_html": "\n  <p>\n    running some tests\n  </p>\n\n  <p>\n    \n  </p>",
             "author": {
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2023-08-14T00:04:09-04:00",
-            "date_modified": "2023-08-14T00:04:09-04:00"
+            "date_modified": "2023-08-14T09:24:40-04:00"
         },
         {
             "id": "https://stegratech.com/block-editor-2.html",
