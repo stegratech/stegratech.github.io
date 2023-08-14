@@ -7,67 +7,23 @@
     "user_comment": "",
     "icon": "https://stegratech.com/media/website/stegratech-75-2.png",
     "author": {
-        "name": "VennBit"
+        "name": "Steve Graham"
     },
     "items": [
         {
-            "id": "https://stegratech.com/ignore-all-this.html",
-            "url": "https://stegratech.com/ignore-all-this.html",
-            "title": "Please ignore all this",
-            "summary": "running some tests",
-            "content_html": "\n  <p>\n    running some tests\n  </p>\n\n  <p>\n    \n  </p>",
+            "id": "https://stegratech.com/configure-dns-for-github-pages.html",
+            "url": "https://stegratech.com/configure-dns-for-github-pages.html",
+            "title": "Configure DNS for GitHub Pages",
+            "summary": "\n  <p>\n    These are the DNS records you need to create on your DNS host in order for GitHub pages to work.\n  </p>\n",
+            "content_html": "\n  <p>\n    These are the DNS records you need to create on your DNS host in order for GitHub pages to work.\n  </p>\n\n\n  <p>\n    <b><u>A Records:</u></b><br>185.199.108.153\n<br>185.199.109.153\n<br>185.199.110.153\n<br>185.199.111.153\n  </p>\n\n  <p>\n    <b><u>CNAME record:<br></u></b>Point \"www\" to your GitHub Pages repository.<br>For instance www.stegratech.com points to \"stegratech.github.io\"\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://stegratech.com/media/posts/8/fastmail-dns.png\" height=\"290\" width=\"726\" alt=\"\"  sizes=\"(max-width: 749px) 100vw, 749px\" srcset=\"https://stegratech.com/media/posts/8/responsive/fastmail-dns-xs.png 300w ,https://stegratech.com/media/posts/8/responsive/fastmail-dns-sm.png 480w ,https://stegratech.com/media/posts/8/responsive/fastmail-dns-md.png 749w\">\n      \n    </figure>",
+            "image": "https://stegratech.com/media/posts/8/GitHub_Logo.png",
             "author": {
-                "name": "VennBit"
+                "name": "Steve Graham"
             },
             "tags": [
             ],
-            "date_published": "2023-08-14T00:04:09-04:00",
-            "date_modified": "2023-08-14T09:24:40-04:00"
-        },
-        {
-            "id": "https://stegratech.com/block-editor-2.html",
-            "url": "https://stegratech.com/block-editor-2.html",
-            "title": "block editor 2",
-            "summary": "huwhefuhwfe wefwefw def a() { whufhwiuefh wefwef wefwefef",
-            "content_html": "\n  <p>\n    huwhefuhwfe\n  </p>\n\n  <p>\n    wefwefw\n  </p>\n<pre class=\"line-numbers  language-python\"><code>def a() {\n    whufhwiuefh\n    wefwef\n\n    \n</code></pre>\n\n  <p>\n    wefwefef\n  </p>\n\n  <p>\n    \n  </p>\n\n  <p>\n    \n  </p>",
-            "image": "https://stegratech.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg",
-            "author": {
-                "name": "VennBit"
-            },
-            "tags": [
-                   "tag2",
-                   "tag1"
-            ],
-            "date_published": "2023-08-13T22:16:08-04:00",
-            "date_modified": "2023-08-13T22:45:16-04:00"
-        },
-        {
-            "id": "https://stegratech.com/block-editor-post.html",
-            "url": "https://stegratech.com/block-editor-post.html",
-            "title": "block editor post",
-            "summary": "wefwefwef wefwefwf this is code uhfwuiefhi fwefwefef wefwfe wefwef wefef",
-            "content_html": "\n  <p>\n    wefwefwef\n  </p>\n\n  <p>\n    wefwefwf\n  </p>\n<pre class=\"line-numbers  language-html\"><code>this is code uhfwuiefhi\nfwefwefef\nwefwfe\nwefwef\nwefef\n\n</code></pre>",
-            "author": {
-                "name": "VennBit"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-08-13T22:00:19-04:00",
-            "date_modified": "2023-08-13T22:00:19-04:00"
-        },
-        {
-            "id": "https://stegratech.com/this-is-a-wysiwyg-post.html",
-            "url": "https://stegratech.com/this-is-a-wysiwyg-post.html",
-            "title": "This is a wysiwyg post",
-            "summary": "message body wefwefwef this should be python code more python code rwfuwhefuhweiufhwiuehfiuwehf wefwef wef",
-            "content_html": "<p>message body</p>\n<p><code class=\"language-python\">wefwefwef<br>this should be python code<br>more python code<br>rwfuwhefuhweiufhwiuehfiuwehf</code></p>\n<p>wefwef</p>\n<p>wef</p>\n<p> </p>",
-            "author": {
-                "name": "VennBit"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-08-13T21:58:57-04:00",
-            "date_modified": "2023-08-13T21:58:57-04:00"
+            "date_published": "2023-08-14T15:23:35-04:00",
+            "date_modified": "2023-08-14T15:40:25-04:00"
         }
     ]
 }

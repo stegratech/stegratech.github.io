@@ -3,144 +3,56 @@
     <title>StegraTech</title>
     <link href="https://stegratech.com/feed.xml" rel="self" />
     <link href="https://stegratech.com" />
-    <updated>2023-08-14T09:24:40-04:00</updated>
+    <updated>2023-08-14T15:40:25-04:00</updated>
     <author>
-        <name>VennBit</name>
+        <name>Steve Graham</name>
     </author>
     <id>https://stegratech.com</id>
 
     <entry>
-        <title>Please ignore all this</title>
+        <title>Configure DNS for GitHub Pages</title>
         <author>
-            <name>VennBit</name>
+            <name>Steve Graham</name>
         </author>
-        <link href="https://stegratech.com/ignore-all-this.html"/>
-        <id>https://stegratech.com/ignore-all-this.html</id>
+        <link href="https://stegratech.com/configure-dns-for-github-pages.html"/>
+        <id>https://stegratech.com/configure-dns-for-github-pages.html</id>
+        <media:content url="https://stegratech.com/media/posts/8/GitHub_Logo.png" medium="image" />
 
-        <updated>2023-08-14T09:24:40-04:00</updated>
+        <updated>2023-08-14T15:40:25-04:00</updated>
             <summary>
                 <![CDATA[
-                    running some tests
+                        <img src="https://stegratech.com/media/posts/8/GitHub_Logo.png" alt="" />
+                    
+  <p>
+    These are the DNS records you need to create on your DNS host in order for GitHub pages to work.
+  </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://stegratech.com/media/posts/8/GitHub_Logo.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    running some tests
+    These are the DNS records you need to create on your DNS host in order for GitHub pages to work.
+  </p>
+
+
+  <p>
+    <b><u>A Records:</u></b><br>185.199.108.153
+<br>185.199.109.153
+<br>185.199.110.153
+<br>185.199.111.153
   </p>
 
   <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>block editor 2</title>
-        <author>
-            <name>VennBit</name>
-        </author>
-        <link href="https://stegratech.com/block-editor-2.html"/>
-        <id>https://stegratech.com/block-editor-2.html</id>
-        <media:content url="https://stegratech.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" medium="image" />
-            <category term="tag2"/>
-            <category term="tag1"/>
-
-        <updated>2023-08-13T22:45:16-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://stegratech.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" alt="" />
-                    huwhefuhwfe wefwefw def a() { whufhwiuefh wefwef wefwefef
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://stegratech.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    huwhefuhwfe
+    <b><u>CNAME record:<br></u></b>Point "www" to your GitHub Pages repository.<br>For instance www.stegratech.com points to "stegratech.github.io"
   </p>
 
-  <p>
-    wefwefw
-  </p>
-<pre class="line-numbers  language-python"><code>def a() {
-    whufhwiuefh
-    wefwef
-
-    
-</code></pre>
-
-  <p>
-    wefwefef
-  </p>
-
-  <p>
-    
-  </p>
-
-  <p>
-    
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>block editor post</title>
-        <author>
-            <name>VennBit</name>
-        </author>
-        <link href="https://stegratech.com/block-editor-post.html"/>
-        <id>https://stegratech.com/block-editor-post.html</id>
-
-        <updated>2023-08-13T22:00:19-04:00</updated>
-            <summary>
-                <![CDATA[
-                    wefwefwef wefwefwf this is code uhfwuiefhi fwefwefef wefwfe wefwef wefef
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    wefwefwef
-  </p>
-
-  <p>
-    wefwefwf
-  </p>
-<pre class="line-numbers  language-html"><code>this is code uhfwuiefhi
-fwefwefef
-wefwfe
-wefwef
-wefef
-
-</code></pre>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>This is a wysiwyg post</title>
-        <author>
-            <name>VennBit</name>
-        </author>
-        <link href="https://stegratech.com/this-is-a-wysiwyg-post.html"/>
-        <id>https://stegratech.com/this-is-a-wysiwyg-post.html</id>
-
-        <updated>2023-08-13T21:58:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                    message body wefwefwef this should be python code more python code rwfuwhefuhweiufhwiuehfiuwehf wefwef wef
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>message body</p>
-<p><code class="language-python">wefwefwef<br>this should be python code<br>more python code<br>rwfuwhefuhweiufhwiuehfiuwehf</code></p>
-<p>wefwef</p>
-<p>wef</p>
-<p> </p>
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://stegratech.com/media/posts/8/fastmail-dns.png" height="290" width="726" alt=""  sizes="(max-width: 749px) 100vw, 749px" srcset="https://stegratech.com/media/posts/8/responsive/fastmail-dns-xs.png 300w ,https://stegratech.com/media/posts/8/responsive/fastmail-dns-sm.png 480w ,https://stegratech.com/media/posts/8/responsive/fastmail-dns-md.png 749w">
+      
+    </figure>
             ]]>
         </content>
     </entry>
