@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>StegraTech</title>
-    <link href="https://vennbit.com/feed.xml" rel="self" />
-    <link href="https://vennbit.com" />
+    <link href="https://stegratech.com/feed.xml" rel="self" />
+    <link href="https://stegratech.com" />
     <updated>2023-08-14T00:04:09-04:00</updated>
     <author>
         <name>VennBit</name>
     </author>
-    <id>https://vennbit.com</id>
+    <id>https://stegratech.com</id>
 
     <entry>
         <title>Ignore all this</title>
         <author>
             <name>VennBit</name>
         </author>
-        <link href="https://vennbit.com/ignore-all-this.html"/>
-        <id>https://vennbit.com/ignore-all-this.html</id>
+        <link href="https://stegratech.com/ignore-all-this.html"/>
+        <id>https://stegratech.com/ignore-all-this.html</id>
 
         <updated>2023-08-14T00:04:09-04:00</updated>
             <summary>
@@ -41,22 +41,22 @@
         <author>
             <name>VennBit</name>
         </author>
-        <link href="https://vennbit.com/block-editor-2.html"/>
-        <id>https://vennbit.com/block-editor-2.html</id>
-        <media:content url="https://vennbit.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" medium="image" />
+        <link href="https://stegratech.com/block-editor-2.html"/>
+        <id>https://stegratech.com/block-editor-2.html</id>
+        <media:content url="https://stegratech.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" medium="image" />
             <category term="tag2"/>
             <category term="tag1"/>
 
         <updated>2023-08-13T22:45:16-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://vennbit.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" alt="" />
+                        <img src="https://stegratech.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" alt="" />
                     huwhefuhwfe wefwefw def a() { whufhwiuefh wefwef wefwefef
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://vennbit.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://stegratech.com/media/posts/3/aaron-burden-2IzoIHBgYAo-unsplash.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     huwhefuhwfe
@@ -91,8 +91,8 @@
         <author>
             <name>VennBit</name>
         </author>
-        <link href="https://vennbit.com/block-editor-post.html"/>
-        <id>https://vennbit.com/block-editor-post.html</id>
+        <link href="https://stegratech.com/block-editor-post.html"/>
+        <id>https://stegratech.com/block-editor-post.html</id>
 
         <updated>2023-08-13T22:00:19-04:00</updated>
             <summary>
@@ -125,8 +125,8 @@ wefef
         <author>
             <name>VennBit</name>
         </author>
-        <link href="https://vennbit.com/this-is-a-wysiwyg-post.html"/>
-        <id>https://vennbit.com/this-is-a-wysiwyg-post.html</id>
+        <link href="https://stegratech.com/this-is-a-wysiwyg-post.html"/>
+        <id>https://stegratech.com/this-is-a-wysiwyg-post.html</id>
 
         <updated>2023-08-13T21:58:57-04:00</updated>
             <summary>
