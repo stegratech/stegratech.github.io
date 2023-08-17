@@ -1,1 +1,0 @@
-# stegratech.github.io
